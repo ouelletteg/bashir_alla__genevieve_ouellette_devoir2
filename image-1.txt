@@ -1,0 +1,43 @@
+<!--premiere image -->
+<img
+src=http://emojination.themerex.net/splash/assets/img/feature-preview-1.jpg
+height="350"
+ width="600"
+ />
+
+ <!--deuxieme image -->
+ <img
+ src=http://emojination.themerex.net/splash/assets/img/feature-preview-2.jpg
+ height="350"
+ width="600"
+ />
+<!--troisieme image -->
+ <img
+ src=http://emojination.themerex.net/splash/assets/img/installation.jpg
+ height="350"
+ width="600"
+ />
+
+ <!--Quatrieme image -->
+ <img
+ src=http://emojination.themerex.net/splash/assets/img/feature-preview-3.jpg
+ height="350"
+ width="600"
+ />
+<!--cinquieme image -->
+ <img
+ src=http://emojination.themerex.net/splash/assets/img/feature-preview-4.jpg
+ height="350"
+ width="600"
+ />
+<!--sixieme image -->
+ <img
+ src=http://emojination.themerex.net/splash/assets/img/feature-preview-5.jpg
+ height="350"
+ width="600"
+ />
+
+
+
+
+
