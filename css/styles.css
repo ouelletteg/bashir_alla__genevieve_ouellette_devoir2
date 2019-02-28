@@ -157,9 +157,6 @@ section {
 /* LAYOUT
    ============================= */
 
-#layout h1 {
-}
-
 #layout ul {
   display: flex;
 }
@@ -297,12 +294,12 @@ section {
 }
 
 #amz-features li {
-  margin-right: 50px;
+  margin-right: 30px;
 }
 
 .amz-div,
 .funky-bg {
-  padding: 60px;
+  padding: 40px;
 }
 .funky-bg {
   background-color: #48dbdc;
@@ -312,6 +309,19 @@ section {
   background-color: white;
 }
 
-.amz-div_h1 {
-  margin-top: 110px;
+.amz-div_h1,
+.power-h1 {
+  margin-top: 50px;
+  font-size: 30px;
+}
+
+/* POWERFUL FEATURES */
+
+.power-h1 {
+  margin-bottom: 10px;
+  text-align: left;
+}
+.power-p {
+  font-size: 20px;
+  color: grey;
 }
