@@ -317,11 +317,40 @@ section {
 
 /* POWERFUL FEATURES */
 
+.powerful ul {
+  display: flex;
+}
+
+.powerful hr {
+  border: 0;
+  clear: both;
+  display: block;
+  width: 85%;
+  background-color: black;
+  height: 2px;
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
 .power-h1 {
   margin-bottom: 10px;
   text-align: left;
+  z-index: 1;
 }
 .power-p {
   font-size: 20px;
   color: grey;
+}
+.power-div {
+  position: relative;
+}
+
+.number {
+  position: absolute;
+  font-size: 200px;
+  display: block;
+  top: -30px;
+  left: 20px;
+  color: #c9c7c74f;
+  font-weight: bold;
 }
